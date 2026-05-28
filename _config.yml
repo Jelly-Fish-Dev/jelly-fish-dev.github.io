@@ -1,6 +1,6 @@
 # Site settings
 title: Isaac Hawkins # site title
-description: Open Source Software, Old Software/Hardware enthusiest and engrossed in many subjects related to hardware, software, and beyond.
+description: Full-stack developer with experience building data-intensive SaaS products. React, PHP, Node.js, PostgreSQL, and Linux.
 lang: en-US # default lang
 timezone: Melbourne/Australia # set your timezone
 image: assets/img/avatar.png # This image used for Open Graph more info https://ogp.me/
@@ -9,16 +9,17 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Isaac Hawkins # author name
-  bio: Open Source Software, Old Software/Hardware enthusiest and engrossed in many subjects related to hardware, software, and beyond. 
+  bio: Full-Stack Developer
   username: Jellyfish # general username
   github: Jelly-Fish-Dev # github username
+  linkedin: isaac-g-hawkins # linkedin username
   #twitter: twitter_username # twitter username
   #facebook: facebook_username # facebook username
-  email: isaac.g.hawkins@gmail.com # email adress
+  email: isaac@isaachawkins.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
+url: "https://www.isaachawkins.com" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish

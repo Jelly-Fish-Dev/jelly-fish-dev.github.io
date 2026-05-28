@@ -1,12 +1,18 @@
 ---
-title: Isaac Hawkins
+title: About
 permalink: /about/
 layout: page
-excerpt: Open Source Software, Old Software/Hardware enthusiest and engrossed in many subjects related to hardware, software, and beyond. 
+excerpt: Full-stack developer with experience building data-intensive SaaS products.
 comments: false
 ---
-  Self motivated Developer, used to work in Web Development but since I've had lots of time since over lockdown mostly focused on low level C/Rust development, and whatever python projects caught my attention. Most recently have participated in [Govhack 2021](https://hackerspace.govhack.org/projects/matchy_matchy) and [Hackvision 2021](https://devpost.com/software/greensnap-j81rc3), but otherwise focusing on my degree at RMIT university.
 
-  Find me at
-- {{ site.author.email }}
-- [Github](http://github.com/{{ site.author.github }})
+Full-stack developer with 3.5 years of production experience building data-intensive SaaS products at [SWOOP Analytics](https://www.swoopanalytics.com). Comfortable across the full stack — React frontends, PHP and Node.js backends, PostgreSQL, and Linux infrastructure.
+
+Led projects end-to-end including building a React frontend from scratch, leading a CentOS 7 to 9 server migration, and integrating Microsoft 365 APIs (Teams, SharePoint, Viva Engage, Workplace) at enterprise scale.
+
+**Skills:** React · JavaScript · PHP · Node.js · PostgreSQL · Linux · Bash · Python · Ruby · C++ · Rust · Docker · Git
+
+Find me at:
+- [isaac@isaachawkins.com](mailto:isaac@isaachawkins.com)
+- [GitHub](https://github.com/{{ site.author.github }})
+- [LinkedIn](https://linkedin.com/in/{{ site.author.linkedin }})
