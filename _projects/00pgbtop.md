@@ -1,6 +1,6 @@
 ---
 title: pgbtop
-awards: Open Source · Python · PostgreSQL · Apache 2.0
+awards: Open Source · Python · Typescript · PostgreSQL · Apache 2.0
 description: A btop-style live terminal and web monitor for PostgreSQL, streaming real-time query, lock, and session data over WebSocket to a Textual TUI or web client.
 hackathon: https://github.com/Jelly-Fish-Dev/pgbtop
 date: 2026-06-01
