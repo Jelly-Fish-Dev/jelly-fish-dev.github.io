@@ -14,5 +14,7 @@ Led projects end-to-end including building a React frontend from scratch, leadin
 
 Find me at:
 - [isaac@isaachawkins.com](mailto:isaac@isaachawkins.com)
+- [+61 402 358 843](tel:+61402358843)
 - [GitHub](https://github.com/{{ site.author.github }})
 - [LinkedIn](https://linkedin.com/in/{{ site.author.linkedin }})
+- [Resume](/assets/resume.pdf)
